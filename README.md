@@ -4,7 +4,7 @@ Smart waste sorting system using **YOLO object detection** and an **inductive se
 
 ---
 
-## 🚀 Features
+##  Features
 
 * YOLO detects paper & plastic
 * Inductive sensor detects metal
@@ -13,7 +13,7 @@ Smart waste sorting system using **YOLO object detection** and an **inductive se
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 **Languages:** Python, C/C++ (Arduino)
 **Hardware:** Arduino Nano, Inductive Sensor, Pneumatic Cylinders, Motors, Conveyor
@@ -21,7 +21,7 @@ Smart waste sorting system using **YOLO object detection** and an **inductive se
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. Camera captures waste on conveyor
 2. YOLO classifies paper/plastic
@@ -30,15 +30,12 @@ Smart waste sorting system using **YOLO object detection** and an **inductive se
 
 ---
 
-## 🔮 Future Scope
+##  Future Scope
 
-* Deploy model on Raspberry Pi / Jetson
 * Add more waste categories
 * IoT-based smart bins
 
 ---
 
-### 👤 Developer
 
-**Rohit Shimpi**
 
