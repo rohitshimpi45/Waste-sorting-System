@@ -1,0 +1,7 @@
+train: "D:\\deep learning\\janatics\\dataset\\images\\train"
+val: "D:\\deep learning\\janatics\\dataset\\images\\val"
+test: "D:\\deep learning\\janatics\\dataset\\images\\test"
+
+nc: 2
+names: ['paper', 'plastic']
+
